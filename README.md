@@ -1,0 +1,2 @@
+# tradingbitv5
+XAUUSD 5M EMA ATR BREAKOUT SIGNAL 
